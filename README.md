@@ -5,10 +5,9 @@ Completed Jan 25, 2022
 
 ## Task 1: SQL
 
-### Resources Used
+### Tools Used
 - Postgres
 - pgAdmin
-- QuickDatabaseDiagrams.com
 
 
 #### Q1. What are the last five locations Clinton visited during the previous campaign?
