@@ -149,4 +149,4 @@ Please let me know your interest and availability.
 
 Thank you,
 
-Sidney Hollingsworth
+[MY NAME]
