@@ -132,21 +132,21 @@ SET location = 'Prescott Valley, AZ',
 
 Hi [NAME], thank you for your inquiry. I’m glad you asked! 
 
-Syncing your organization’s various tools to a cloud database is a TMC recommended best practice. ‘Syncing data’ refers to sharing information and in this case, automatically cross-platform. Benefits include better-informed decision-making and more efficient allocation of resources.
+Syncing your organization’s various tools to a cloud database is a TMC recommended best practice. ‘Syncing data’ refers to sharing information and in this case, automatically cross data sources. Benefits include better-informed decision-making and a more efficient allocation of resources.
 
 Having an up-to-date centralized source of truth for data helps your organization work more efficiently saving time and money. Each tool your organization uses (i.e. MiniVAN, Email Tool, Peer to Peer Texting) contains slightly different, uniquely informative data that when centralized, can better inform decision making and the allocation of resources. 
 
-For example, might you be confirming RSVPs for an event through multiple tactics, including text, email, and phone call, and receive a confirmation via text, eliminating that person from email and call audiences maximizes efficiency. Further, generally, contact tools charge by contact such as text or dial.
+For example, might you be confirming RSVPs for an event through multiple tactics, including text, email, and phone call, and receive a confirmation via text, eliminating that person from email and call audiences maximizes efficiency. Further, generally, contact tools charge by contact attempt such as a text or dial.
 
-In an alternative instance, might your organization want to send a donation solicitation to subscribers who haven’t donated recently, having a centralized database with information from your email crm and payment processing system will enable you to exclude people who have donated within the past two weeks.
+In an alternative instance, might your organization want to send a donation solicitation to subscribers who haven’t donated recently, having a centralized database with information from your email CRM and payment processing system will enable you to exclude people who have donated within the past two weeks.
 
 In summary, syncing your organization’s tools to a cloud-based database helps you save time and money.
 
-I’m happy to schedule some time with you to discuss next steps towards [ORGANIZATION NAME] adopting this best practice.
+I’m happy to schedule some time with you to discuss the next steps towards [ORGANIZATION NAME] adopting this best practice.
 
 Please let me know your interest and availability.
 
 
 Thank you,
 
-[MY NAME]
+Sidney Hollingsworth
