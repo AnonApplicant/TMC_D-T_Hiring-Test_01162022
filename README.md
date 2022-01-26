@@ -1,6 +1,8 @@
 # TMC D&T Hiring Test
 Completed Jan 25, 2022
 
+[View on GitHub](https://github.com/AnonApplicant/TMC_D-T_Hiring-Test_01162022/edit/main/README.md)
+
 ---
 
 ## Task 1: SQL
