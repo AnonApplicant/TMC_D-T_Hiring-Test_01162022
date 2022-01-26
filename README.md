@@ -98,7 +98,7 @@ ORDER BY total_count DESC;`
 
 Ans. New York, NY with 11 visits.
 
-#### Q6: CHALLENGE (not required): Use a window function to show the running count of events in a state by date.
+#### Q6: CHALLENGE: Use a window function to show the running count of events in a state by date.
 
 `SELECT state, date,
        COUNT(state) OVER
@@ -109,7 +109,7 @@ Ans. New York, NY with 11 visits.
 
 <img width="456" alt="Screen Shot 2022-01-25 at 5 48 49 PM" src="https://user-images.githubusercontent.com/55712982/151078962-a7fff62a-6c84-4df3-b598-8f67f097fa7f.png">
 
-#### To Fix State Errors in Dataset
+##### To Fix Errors within Dataset
 
 `UPDATE analysis.task_one_trump 
 SET state = 'WA'
@@ -121,8 +121,32 @@ UPDATE analysis.task_one_trump
 SET location = 'Prescott Valley, AZ',
 	state = 'AZ',
 	city = 'Prescott Valley';`
- 
+
+<img width="385" alt="Screen Shot 2022-01-26 at 12 19 10 PM" src="https://user-images.githubusercontent.com/88506979/151222960-9f2ae256-f301-417c-a4e0-baa9bf855ae6.png">
+
 ---
 
 ## Task 2: Explanatory Email
-- View [Sample Email]()
+
+#### Prompt: A new member does not understand why syncing the data from their various tools (i.e., CRM, Email Tool, Peer to Peer Texting) to a cloud-based database (we use Amazon Redshift) is beneficial. Explain some of the possibilities that come with syncing data centrally to a database.
+
+Hi [NAME], thank you for your inquiry. I’m glad you asked! 
+
+Syncing your organization’s various tools to a cloud database is a TMC recommended best practice. ‘Syncing data’ refers to sharing information and in this case, automatically cross-platform. Benefits include better-informed decision-making and more efficient allocation of resources.
+
+Having an up-to-date centralized source of truth for data helps your organization work more efficiently saving time and money. Each tool your organization uses (i.e. MiniVAN, Email Tool, Peer to Peer Texting) contains slightly different, uniquely informative data that when centralized, can better inform decision making and the allocation of resources. 
+
+For example, might you be confirming RSVPs for an event through multiple tactics, including text, email, and phone call, and receive a confirmation via text, eliminating that person from email and call audiences maximizes efficiency. Further, generally, contact tools charge by contact such as text or dial.
+
+In an alternative instance, might your organization want to send a donation solicitation to subscribers who haven’t donated recently, having a centralized database with information from your email crm and payment processing system will enable you to exclude people who have donated within the past two weeks.
+
+In summary, syncing your organization’s tools to a cloud-based database helps you save time and money.
+
+I’m happy to schedule some time with you to discuss next steps towards [ORGANIZATION NAME] adopting this best practice.
+
+Please let me know your interest and availability.
+
+
+Thank you,
+
+[MY NAME]
